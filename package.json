@@ -1,0 +1,16 @@
+{
+  "name": "appiumnotetestcase",
+  "version": "1.0.0",
+  "description": "Test Case for the Test App using Appium",
+  "main": "SampleTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "webdriverio": "^5.22.1"
+  },
+  "keywords": []
+}
