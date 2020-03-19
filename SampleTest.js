@@ -6,7 +6,7 @@ const opts = {
     platformName: "Android",
     platformVersion: "9",
     deviceName: "Pixel_2_API_28",
-    app: "/home/snehal/AndroidStudioProjects/MyApplication/app/build/outputs/apk/debug/app-debug.apk",
+    app: "./app-debug.apk",
     appPackage: "com.example.myapplication",
     appActivity: ".MainActivity",
     automationName: "UiAutomator2",
